@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <id>com.example.wulkanowy</id>
+    <name>Wulkanowy</name>
+    <summary>N/A</summary>
+    <description>NIE OFICJALNE REPO WULKANOWEGO DLA F-DROID ABY SZYBICJE AKTUALIZOWAĆ</description>
+    <category>Education</category>
+    <license>?</license>
+    <author email="wulkanowyinc@gmail.com">https://wulkanowy.github.io/</author>
+    <source>https://github.com/fr4n333k/WulkanowyRepoUnofficial</source>
+    <issue tracker>N/A/issues</issue tracker>
+    <webpage>https://wulkanowy.github.io</webpage>
+    <changelog>https://github.com/fr4n333k/WulkanowyRepoUnofficial</changelog>
+    <donate>https://www.example.com/donate</donate>
+    <icon>https://www.example.com/wulkanowy/icon.png</icon>
+    <pkgname>io.github.wulkanowy</pkgname>
+    <version>2.6.15</version>
+    <versioncode>215</versioncode>
+    <releasestatus>Stable</releasestatus>
+    <srcfile>wulkanowy-2.6.15-gms.apk</srcfile>
+    <hash type="sha256">d27e5f540ef0f420a5369f537dd0fd91b983792b7cf1b554e6dcdbe216ab1631</hash>
+</application>
